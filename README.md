@@ -1,2 +1,2 @@
 # ozSingleCell19
-Slides for cel type classification workshop
+Slides for cell type classification workshop
